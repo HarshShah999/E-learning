@@ -29,12 +29,12 @@ export const Footer = () => {
       <ul className='flex flex-col text-[#B0B0D1] items-start gap-[30px]'>
          <li className='flex justify-center items-center gap-4'>
             <VscMail />
-            <Link to="mailto:harshkratikshah@gmail.com">code_master@gmail.com</Link>
+            <Link to="mailto:xyz@gmail.com">code_master@gmail.com</Link>
             
          </li>
          <li className='flex justify-center items-center gap-4'>
          <LuPhone />
-         <Link to="tel:+916353088683">(209) 555-0104</Link>
+         <Link to="tel:+911234567894">(209) 555-0104</Link>
          
          </li>
       </ul>

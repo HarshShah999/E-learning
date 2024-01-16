@@ -22,7 +22,7 @@ export const Signup = () => {
           <div className="mb-3 w-[300px] border-3 border-indigo-900 rounded-[48px] bg-gray-300 relative overflow-hidden">
           <button
             className={`bg-[#FF5156] hover:bg-indigo-900  cursor-pointer text-white font-bold py-2 px-4 rounded-full transform transition-transform ease-in-out duration-300 ${
-              isStudent ? 'translate-x-0' : 'translate-x-[189px]'
+              isStudent ? 'translate-x-0' : 'translate-x-[194px]'
             }`}
             onClick={handleToggle}
           >
